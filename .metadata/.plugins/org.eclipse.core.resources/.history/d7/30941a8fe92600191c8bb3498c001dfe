@@ -1,0 +1,9 @@
+package web.service.test;
+
+public class SimpleWebService {
+
+    @WebMethod
+    public String sayHello(@WebParam(name="name") String name) {
+        return "Hello " + name + "!";
+    }
+}

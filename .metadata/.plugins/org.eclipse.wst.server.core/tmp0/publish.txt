@@ -1,0 +1,3 @@
+#GlassFish 3
+#Sun Feb 03 21:06:10 JST 2019
+org.eclipse.jst.jee.server\:sample-ws=C\:\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\sample-ws

@@ -1,0 +1,15 @@
+package web.service.test;
+
+public class SimpleWebService {
+
+	/**
+	 * 引数に与えられた数値の和を返却します。
+	 * @param a
+	 * @param b
+	 * @return
+	 */
+	public int add(int a, int b) {
+    	return (a + b);
+    }
+
+}
